@@ -7,6 +7,7 @@ body {
   
     width: 980px;
     margin: 0 auto;
+    margin-bottom: 50px;
   }
   
   h1 {
@@ -19,3 +20,13 @@ body {
     text-align: center;
     font-size: 25px;
   }
+
+a:link {
+    color: green;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: yellow;
+}
